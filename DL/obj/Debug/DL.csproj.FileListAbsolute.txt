@@ -1,0 +1,15 @@
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\DL.dll.config
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\DL.dll
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\DL.pdb
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\Entities.dll
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\EntityFramework.dll
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\Entities.pdb
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\Entities.dll.config
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\EntityFramework.xml
+D:\Tai lieu\JobsSystem\JobsSystem\DL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai lieu\JobsSystem\JobsSystem\DL\obj\Debug\DL.csprojAssemblyReference.cache
+D:\Tai lieu\JobsSystem\JobsSystem\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\Tai lieu\JobsSystem\JobsSystem\DL\obj\Debug\DL.csproj.CopyComplete
+D:\Tai lieu\JobsSystem\JobsSystem\DL\obj\Debug\DL.dll
+D:\Tai lieu\JobsSystem\JobsSystem\DL\obj\Debug\DL.pdb
